@@ -1,0 +1,1 @@
+In this project, I have used "Convolutional Autoencoders" to eliminate bone shadows from Chest X-ray images. The dataset can be found [here](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression/data), and you can access the project on Kaggle [here](https://www.kaggle.com/code/faezehgharari/bone-suppression-autoencoder/input).
